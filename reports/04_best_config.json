@@ -1,0 +1,6 @@
+{
+  "model": "XGBoost",
+  "technique": "None",
+  "cv_pr_auc": 0.855963358682866,
+  "cv_pr_auc_std": 0.03395235690305251
+}
